@@ -10,8 +10,8 @@ In this sub-experience, the stationary source is positioned to the right of the 
 ### EXP 4.2: Source is to the Left of the Fly
 In this sub-experience, the stationary source is positioned to the left of the fly while the antenna is hidden.
 
-### EXP 4.3: Behind the Square
-In this sub-experience, the fly is positioned behind the stationary square while the antenna is hidden.
+### EXP 4.3: Source is behind of the Fly
+In this sub-experience, the stationary source is positioned behind of the fly while the antenna is hidden.
 
-### EXP 4.4: In Front of the Square
-In this sub-experience, the fly is positioned in front of the stationary square while the antenna is hidden.
+### EXP 4.4: Source is in front of the Fly
+In this sub-experience, the stationary source is positioned in front of the fly while the antenna is hidden.
