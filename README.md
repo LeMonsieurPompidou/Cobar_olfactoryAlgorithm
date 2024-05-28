@@ -1,9 +1,11 @@
 # Cobar_OlfactoryAlgorithm
- Project of Controlling behaviors of animals and robots (course)
+ Project of Controlling behavior in animals and robots (BIOENG-456)
 
 # Fly Simulation Experiments
 
 This repository contains a series of experiments conducted using a fly simulation model. Each experiment explores different scenarios involving the fly's interaction with various sources. The experiments are organized into five main categories.
+
+**Note:** The order of the experiences follows the order presented in the report.
 
 ## Table of Contents
 1. [Experience 1: Attractive Source Moving in Two Directions](EXPERIENCE_1/EXPERIENCE_1.md)
